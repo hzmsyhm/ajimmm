@@ -1,0 +1,2 @@
+# ajimmm
+Newbie Programmer
